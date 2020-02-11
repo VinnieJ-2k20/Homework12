@@ -1,9 +1,9 @@
 package com.gmail.ptimofejev;
 
 public class Triangle {
-	double sideA;
-	double sideB;
-	double sideC;
+	private double sideA;
+	private double sideB;
+	private double sideC;
 
 	public Triangle() {
 
